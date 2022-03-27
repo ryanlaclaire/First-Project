@@ -1,5 +1,6 @@
-body{
-    color:white
+body, html{
+    color:white;
+    height: 100%;
 }
 
 #hero {
